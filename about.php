@@ -1,0 +1,20 @@
+<?php include 'header.php'; ?>
+<div class="container-xl">
+
+   <h4>Department of Conputer Science & Engineering, JU</h4>
+   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab dolores architecto nisi, dolore quam beatae repudiandae iste tenetur quos eius sunt fugit a officia facere, culpa quaerat ratione modi inventore maxime exercitationem. Sequi neque voluptates quidem, deserunt deleniti facere eos ipsum nisi quasi aliquam inventore veniam, officiis sed, repudiandae distinctio minima quos odit minus fugiat architecto ex? Debitis animi tenetur earum, aperiam asperiores similique magnam pariatur quasi, quis beatae laborum rem vero voluptatibus quod dolores. Debitis dolorum ratione doloremque libero nam excepturi corporis sed iusto quaerat asperiores et, in non voluptate odit vero, maiores voluptatem obcaecati architecto eveniet enim corrupti exercitationem nostrum? Sint perferendis dolor itaque molestias animi explicabo labore amet asperiores et, dolorem ipsa harum corrupti ratione optio, iste voluptatum eos cumque possimus repellendus. Ut at, laudantium ex esse iste deleniti assumenda recusandae quae? Libero ab, eius, pariatur est voluptate mollitia, veniam iste nesciunt doloremque commodi accusantium dolor dignissimos deserunt. Pariatur aliquid deserunt culpa hic commodi, earum quidem explicabo iusto sed nam adipisci necessitatibus dicta rerum vero dignissimos quia accusantium odio esse neque ad perferendis. Iusto laborum alias exercitationem ipsam, quaerat ullam! Magni repellendus quos quidem quae praesentium animi sequi a commodi minima inventore. Ipsa ea obcaecati dolor nesciunt excepturi non. Magnam odio cupiditate sint expedita dolor sed neque, impedit commodi in nulla necessitatibus explicabo maxime sunt, ipsum quam laudantium ducimus totam. Magnam laborum, sunt harum necessitatibus placeat fugit rem quisquam praesentium nisi, dolores ut ad, iusto a accusamus. Quos dolore architecto reiciendis ut vel provident, praesentium deleniti recusandae molestiae atque aut debitis modi asperiores tempora expedita voluptatem aliquid quam illo minus ad consequuntur. Autem harum in itaque, ex incidunt voluptatem tempora soluta rem sequi perferendis nihil totam omnis inventore culpa quia? Similique cupiditate qui unde, voluptatibus ab delectus possimus est laboriosam blanditiis ipsum cumque tempore quis debitis fuga.
+   <br><br>
+   Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quisquam praesentium aliquid? Neque inventore magni, rerum sint dolores ipsa enim minima quas obcaecati, sapiente qui iure quasi nesciunt itaque facere ad deserunt non? Consequatur, fuga? Consequatur, sunt corporis mollitia enim minima perspiciatis adipisci ut dolorum sapiente rem dolor aliquam necessitatibus animi eligendi quas tempore voluptatem vero, accusamus ratione deserunt distinctio quae saepe similique. Itaque ex officiis sint? Harum perspiciatis, recusandae quidem eum possimus earum hic deserunt inventore labore officiis magni dolore placeat excepturi adipisci! Labore aliquid consequuntur laudantium voluptates earum laborum, explicabo ipsa doloribus neque voluptate cum deserunt nobis quidem iusto optio et provident consectetur beatae repudiandae ullam ab. Reiciendis, officiis est voluptatem, quae vitae eius, facilis sed porro quod cumque modi nesciunt consectetur totam. Ullam, est corrupti? Fuga voluptatibus beatae aperiam repudiandae molestias quisquam quis autem laboriosam libero nostrum in sequi quas accusamus sunt enim tempora cum provident unde, neque illum modi illo. Molestiae ipsa suscipit voluptas nihil praesentium ad incidunt inventore, pariatur, vel, delectus doloremque placeat? Saepe mollitia ratione, et ad neque voluptatem rem, amet eum, recusandae magnam quaerat delectus maxime atque vitae? Ab praesentium nemo iure repellat atque laudantium, maiores enim libero quaerat, perspiciatis sequi labore? Ratione.
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<?php include 'footer.php'; ?>
